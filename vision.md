@@ -26,7 +26,7 @@ Informerar om lagar och regler för hantering av personuppgifter. <http://www.da
 Fiktivt nationellt båtregister
 
 ### Bankgirot
-Erbjuder tjänster för automatisk kontroll av betalningar
+Erbjuder tjänster för automatisk kontroll av betalningar <http://bgc.se>
 
 ## Liknande System
 
