@@ -25,6 +25,9 @@ Ett externt system som behöver användas för att hämta information om medlemm
 Ett externt system som behöver användas vid betalning och fakturering.
 
 ### Offstage Aktörer
+#### Räddningstjänsten
+Vill att det ska finnas ett register på vilka och var båtarna är placerade.
+
 #### Befintligt medlemsregister
 Det befintliga medlemsregistret har flera problem. Dess brister måste tas i beaktande så att de kan undvikas i så stor grad som möjligt.
 
