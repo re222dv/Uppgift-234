@@ -2,7 +2,7 @@
 En styrelsemedlem vill CRUD ett möte och väljer att öppna klubbkalendern. Systemet presenterar kalendern samt val för att CRUD ett möte.
 
 ## Primär Aktör
-Styrelsemedlem
+[Styrelsemedlem](kravspecifikation.md#styrelsemedlem)
 
 ## Förkrav
 Inloggad (F1) som Styrelsemedlem.

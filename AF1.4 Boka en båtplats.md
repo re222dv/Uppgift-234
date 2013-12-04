@@ -2,7 +2,7 @@
 En medlem vill boka en båtplats och väljer att öppna listan med båtplatser. Medlem väljer en av de lediga båtplatserna och en av sina båtar.
 
 ## Primär Aktör
-Medlem
+[Medlem](kravspecifikation.md#medlem)
 
 ## Förkrav
 Inloggad (F1) som Medlem.

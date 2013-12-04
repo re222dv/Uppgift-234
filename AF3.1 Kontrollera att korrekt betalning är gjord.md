@@ -2,7 +2,7 @@
 Kassören vill kontrollera att en medlem har betalat sin medlemsavgift och väljer att öppna listan med gjorda betalningar. För att snabbt hitta rätt väljer Kassör att filtrera på medlemmens förnamn.
 
 ## Primär Aktör
-Kassör
+[Kassör](kravspecifikation.md#kassör)
 
 ## Förkrav
 Inloggad (F1) som Kassör.

@@ -44,20 +44,20 @@ AF1.2 CRUD en båt
 
 AF1.3 Ändra sin kontaktinfo
 
-AF1.4 Boka en båtplats
+[AF1.4 Boka en båtplats](AF1.4 Boka en båtplats.md#af14-boka-en-båtplats)
 
 
 #### 2. Styrelsemedlem
-AF2.1 CRUD ett möte
+[AF2.1 CRUD ett möte](AF2.1 CRUD ett möte.md#af21-crud-ett-möte)
 
 AF2.2 Skicka ut information
 
 
 #### 3. Kassör
-AF3.1 Kontrollera att korrekt betalning är gjord
+[AF3.1 Kontrollera att korrekt betalning är gjord](AF3.1 Kontrollera att korrekt betalning är gjord.md#af31-kontrollera-att-korrekt-betalning-är-gjord)
 
 AF3.2 Kontrollera att faktura skickats ut till en medlem
 
 
 #### 4. Sekreterare
-AF4.1 Byta plats på en medlems båt
+[AF4.1 Byta plats på en medlems båt](AF4.1 Byta plats på en medlems båt.md#af41-byta-plats-på-en-medlems-båt)
