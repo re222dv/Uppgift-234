@@ -49,13 +49,13 @@ Erbjuder tjänster för automatisk kontroll av betalningar <http://bgc.se>
 - Ingen koppling mot Bankgirot
 
 ## Baskrav
-#.  Medlemmar kan själva uppdatera info som adress, kontaktuppgifter och vilka båtar som ägs på en enkelt och smidigt sätt.
-#.  Medlemmar ska automatiskt notifieras vid möte och när medlemsavgiften ska betalas
-#. Info om båtar ska hämtas automatiskt från det nationella båtregistret.
-#. Hantering av medlemsavgifter ska helt automatiseras.
-    #. Medlemmar ska automatiskt faktureras när betalning ska ske.
-    #. Inkomna betalningar ska automatiskt hämtas från Bankgirot.
-    #. Om en medlem inte har betalat sin medlemsavgift eller betalat fel summa ska kassören notifieras.
-#. Medlemmar ska själva kunna boka lediga båtplatser.
-    #. Endast båtplatser som passar båten ska kunna väljas.
-#. Styrelsen ska enkelt kunna skicka ut information till medlemmar.
+1.  Medlemmar kan själva uppdatera info som adress, kontaktuppgifter och vilka båtar som ägs på en enkelt och smidigt sätt.
+1.  Medlemmar ska automatiskt notifieras vid möte och när medlemsavgiften ska betalas
+1. Info om båtar ska hämtas automatiskt från det nationella båtregistret.
+1. Hantering av medlemsavgifter ska helt automatiseras.
+    1. Medlemmar ska automatiskt faktureras när betalning ska ske.
+    1. Inkomna betalningar ska automatiskt hämtas från Bankgirot.
+    1. Om en medlem inte har betalat sin medlemsavgift eller betalat fel summa ska kassören notifieras.
+1. Medlemmar ska själva kunna boka lediga båtplatser.
+    1. Endast båtplatser som passar båten ska kunna väljas.
+1. Styrelsen ska enkelt kunna skicka ut information till medlemmar.
