@@ -61,6 +61,3 @@ AF3.2 Kontrollera att faktura skickats ut till en medlem
 
 #### 4. Sekreterare
 AF4.1 Byta plats på en medlems båt
-
-
-## Ickefunktionella Krav
