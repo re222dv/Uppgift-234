@@ -20,17 +20,19 @@ Medlemmarnas kalendrar uppdateras för att matcha de nya ändringarna.
 7. Systemet skapar mötet och bekräftar
 
 ## Alternativa Scenarion
-4a. Styrelsemedlemmen väljer att visa ett möte
+###4a. Styrelsemedlemmen väljer att visa ett möte
+1. Systemet presenterar detaljerad information om mötet
 
-    1. Systemet presenterar detaljerad information om mötet
-    *Scenariot avslutas*
-4b. Styrelsemedlemmen väljer att uppdatera ett möte
+*Scenariot avslutas*
 
-    1. Systemet presenterar detaljerad information om mötet
-    2. Styrelsemedlemmen ändrar informationen
-    3. Systemet sparar ändringarna och bekräftar
-    *Scenariot avslutas*
-4c. Styrelsemedlemmen väljer att radera ett möte
+###4b. Styrelsemedlemmen väljer att uppdatera ett möte
+1. Systemet presenterar detaljerad information om mötet
+2. Styrelsemedlemmen ändrar informationen
+3. Systemet sparar ändringarna och bekräftar
 
-    1. Systemet tar bort mötet och bekräftar
-    *scenariot avslutas*
+*Scenariot avslutas*
+
+###4c. Styrelsemedlemmen väljer att radera ett möte
+1. Systemet tar bort mötet och bekräftar
+
+*scenariot avslutas*
