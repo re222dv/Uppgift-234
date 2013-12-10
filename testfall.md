@@ -51,3 +51,17 @@ Kontrollera att ett möte är uppdaterat från den 2014-6-16 till den 2014-6-23 
 2. Öppna möte "Styrelsemöte" den 2014-6-16
 4. Ändra datumet för mötet till den 2014-6-23 och klicka på "Uppdatera möte"
 7. Kalendern visas, kontrollera att mötet nu visas korrekt på det nya datumet
+
+## TF [AF2.1 4c - Radera ett möte](AF2.1 CRUD ett möte.md#af21-crud-ett-möte)
+I detta testfall är målet att undersöka så att [Styrelsemedlem](kravspecifikation.md#styrelsemedlem) enkelt kan radera ett möte.
+
+### Förkrav
+Initiera testmiljöns databas. Gå till test.dgp.se och logga in med Användarnamn: Styrelsen Lösenord: password
+
+### Efterkrav
+Kontrollera att ett mötet från den 2014-5-12 inte längre finns i databasen eller i medlemmarnas kalendrar.
+
+### Scenario
+1. Välj "Kalender"
+2. Öppna möte "Medlemsmöte" den 2014-5-12 och klicka på "Radera möte"
+7. Kalendern visas, kontrollera att mötet inte längre visas
