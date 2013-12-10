@@ -36,3 +36,18 @@ Initiera testmiljöns databas. Gå till test.dgp.se och logga in med Användarna
 ### Scenario
 1. Välj "Kalender"
 2. Kontrollera att ett möte syns
+
+## TF [AF2.1 4b - Uppdatera ett möte](AF2.1 CRUD ett möte.md#af21-crud-ett-möte)
+I detta testfall är målet att undersöka så att [Styrelsemedlem](kravspecifikation.md#styrelsemedlem) enkelt kan uppdatera ett möte.
+
+### Förkrav
+Initiera testmiljöns databas. Gå till test.dgp.se och logga in med Användarnamn: Styrelsen Lösenord: password
+
+### Efterkrav
+Kontrollera att ett möte är uppdaterat från den 2014-6-16 till den 2014-6-23 i databasen. Kontrollera att mötet syns med korrekt info i alla medlemmars kalendrar.
+
+### Scenario
+1. Välj "Kalender"
+2. Öppna möte "Styrelsemöte" den 2014-6-16
+4. Ändra datumet för mötet till den 2014-6-23 och klicka på "Uppdatera möte"
+7. Kalendern visas, kontrollera att mötet nu visas korrekt på det nya datumet
