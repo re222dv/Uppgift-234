@@ -1,11 +1,12 @@
 # AF2.1 CRUD ett möte
-En styrelsemedlem vill CRUD ett möte och väljer att öppna klubbkalendern. Systemet presenterar kalendern samt val för att CRUD ett möte.
+En styrelsemedlem vill CRUD ett möte och väljer att öppna klubbkalendern. Systemet presenterar kalendern samt val för att CRUD ett möte. En medlem vill kunna visa års och medlemsmöten.
 
-## Primär Aktör
-[Styrelsemedlem](kravspecifikation.md#styrelsemedlem)
+## Primära Aktörer
+[Styrelsemedlem](kravspecifikation.md#styrelsemedlem), 
+[Medlem](kravspecifikation.md#medlem)
 
 ## Förkrav
-Inloggad (F1) som Styrelsemedlem.
+Inloggad (F1) som Styrelsemedlem eller medlem.
 
 ## Efterkrav
 Medlemmarnas kalendrar uppdateras för att matcha de nya ändringarna.
@@ -20,6 +21,11 @@ Medlemmarnas kalendrar uppdateras för att matcha de nya ändringarna.
 7. Systemet skapar mötet och bekräftar
 
 ## Alternativa Scenarion
+###2a. Medlem väljer att visa klubbkalendern
+1. Systemet presenterar klubbkalendern med styrelsemöten filtrerade.
+
+*Scenariot avslutas*
+
 ###4a. Styrelsemedlemmen väljer att visa ett möte
 1. Systemet presenterar detaljerad information om mötet
 
